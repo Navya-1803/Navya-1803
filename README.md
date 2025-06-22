@@ -5,9 +5,9 @@
 
 ## 🚀 What I'm Working On
 - 📚 Building **BookVerse** – a social platform for book lovers inspired by Goodreads and Fable  
-- 🏥 Enhancing **Hospital Management System** – DBMS-integrated project with MySQL & Tkinter  
+- 🛡️ Developing **CyberAware** – a scam detection web tool using Flask, regex, and NLP to analyze SMS, URLs & UPI fraud attempts  
 - ⚖️ Developing **NyaySetu AI** – a legal-tech solution for underserved communities  
-- 💡 Practicing DSA on LeetCode, CodeChef & building a visual DSA Portfolio
+- 💡 Practicing DSA on LeetCode, CodeChef & building a visual Portfolio
 
 
 ## 🛠️ Skills & Tools
@@ -32,9 +32,10 @@
 - 🔗 [**Real Estate Price Predictor**](https://github.com/Navya-1803): A regression ML model to predict housing prices 
 - 🔗 [**Hospital Management System**](https://github.com/Navya-1803/Hospital_Management): A GUI + DBMS project using Python (Tkinter) and MySQL  
 - 🔗 [**DSA Portfolio**](https://navya-1803.github.io/DSA-Portfolio/): A live, structured C++ DSA project showcasing theory and code  
- 
 
 
+
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -47,6 +48,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-1803&theme=radical&no-frame=true)
 
 
+
 ## 📬 Contact Me
 
 - 📧 Email: navya@gmail.com  
@@ -57,4 +59,3 @@
 ## 🎯 Fun Fact
 
 I love transforming college course projects into real-world applications! 😄
-
