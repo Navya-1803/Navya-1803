@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-1803&theme=transparent&show_icons=true&langs_count=8&layout=compact)](https://github.com/Navya-1803/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-1803&theme=transparent&show_icons=true&langs_count=6&layout=compact)](https://github.com/Navya-1803/github-readme-stats)
 
 ![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya-1803&theme=transparent&show_icons=true&show=show_all_commits)
 
