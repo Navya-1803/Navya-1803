@@ -23,36 +23,39 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 
 ## 📌 Featured Projects
 
-- 🔗 [**Wine Classifier**](https://github.com/Navya-1803): A classification project comparing models on the Wine dataset
-- 🔗 [**BookVerse**](https://github.com/Navya-1803/BookVerse): A book-based social cataloging platform built with modern web tech
-- 🔗 [**Real Estate Price Predictor**](https://github.com/Navya-1803): A regression ML model to predict housing prices 
-- 🔗 [**Hospital Management System**](https://github.com/Navya-1803/Hospital_Management): A GUI + DBMS project using Python (Tkinter) and MySQL  
-- 🔗 [**DSA Portfolio**](https://navya-1803.github.io/DSA-Portfolio/): A live, structured C++ DSA project showcasing theory and code  
-
+- 🔗 [**Wine Classifier**](https://github.com/Navya-1803): ML project comparing classification models on the Wine dataset using scikit-learn
+- 🔗 [**CyberAware**](https://github.com/Navya-1803/CyberAware): Flask-based web tool that detects scams in SMS, URLs, and UPI requests using pattern and keyword analysis
+- 🔗 [**Subsidy-Finder**](https://github.com/Navya-1803/Subsidy-Finder): Flask web app to explore and suggest government/private subsidies with search, filters, and database-ready structure
+- 🔗 [**Real Estate Price Predictor**](https://github.com/Navya-1803): Regression-based ML model predicting property prices using key real estate features
+- 🔗 [**Hospital Management System**](https://github.com/Navya-1803/Hospital_Management): Python + Tkinter desktop app with MySQL backend to manage hospital workflows 
 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-1803&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-1803&theme=transparent&show_icons=true&langs_count=8&layout=compact)](https://github.com/Navya-1803/github-readme-stats)
 
-![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navya-1803&show_icons=true&theme=radical)
+![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya-1803&theme=transparent&show_icons=true&show=show_all_commits)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Navya-1803&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Navya-1803&theme=transparent)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-1803&theme=radical&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-1803&theme=transparent&no-frame=true)
 
 
 
 ## 📬 Contact Me
 
 - 📧 Email: navya@gmail.com  
-- 🌐 Portfolio: [navya-1803.github.io/DSA-Portfolio](https://navya-1803.github.io/DSA-Portfolio)  
 - 💼 LinkedIn: [Navya Raj](https://www.linkedin.com/in/navya-raj-473710302/)
 
 
