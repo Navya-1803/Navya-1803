@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Navya Raj
 
-🎓 Third-year CSE-IT student at SRMIST | Passionate about full-stack development, AI/ML, and impactful software.
+🎓 Third-year CSE-IT student at SRMIST | Passionate about full-stack development, AI/ML, and building tech for social good.
 
 
 ## 🚀 What I'm Working On
 - 📚 Building **BookVerse** – a social platform for book lovers inspired by Goodreads and Fable  
 - 🛡️ Developing **CyberAware** – a scam detection web tool using Flask, regex, and NLP to analyze SMS, URLs & UPI fraud attempts  
-- ⚖️ Developing **NyaySetu AI** – a legal-tech solution for underserved communities  
+- ⚖️ Developing **NyayNav** – Your legal journey, mapped with AI  
+- 🏛️ Expanding **Subsidy Finder** – a portal to help citizens explore government/private welfare schemes  
 - 💡 Practicing DSA on LeetCode, CodeChef & building a visual Portfolio
 
 
@@ -55,7 +56,7 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: navya@gmail.com  
+- 📧 Email: navya3989@gmail.com  
 - 💼 LinkedIn: [Navya Raj](https://www.linkedin.com/in/navya-raj-473710302/)
 
 
