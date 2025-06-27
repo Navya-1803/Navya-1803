@@ -52,6 +52,10 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-1803&theme=transparent&no-frame=true)
 
+[![Navya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navya-1803&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://komarev.com/ghpvc/?username=Navya-1803&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" width="160"/>
+
 
 
 ## 📬 Contact Me
