@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navya Raj
 
-🎓 Third-year CSE-IT student at SRMIST | Passionate about full-stack development, AI/ML, and building tech for social good.
+🎓 Fourth-year CSE-IT student at SRMIST | Passionate about full-stack development, AI/ML, and building tech for social good.
 
 
 ## 🚀 What I'm Working On
