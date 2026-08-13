@@ -1,65 +1,122 @@
-# 👋 Hi, I'm Navya Raj
+# Hi, I'm Navya Raj
 
-🎓 Final-year B.Tech CSE-IT student at SRMIST | Passionate about full-stack development, AI/ML, and building tech for social good.
+Final-year B.Tech CSE-IT student at **SRM Institute of Science and Technology (SRMIST)**  
+Software Development | AI/ML | NLP | Backend Development
 
+I'm passionate about building practical applications using **software development, AI/ML, and data-driven technologies**, with a focus on solving real-world problems.
 
-## 🚀 What I'm Working On
-- 📚 Building **BookVerse** – a social platform for book lovers inspired by Goodreads and Fable  
-- 🛡️ Developing **CyberAware** – a scam detection web tool using Flask, regex, and NLP to analyze SMS, URLs & UPI fraud attempts  
-- ⚖️ Developing **NyayNav** – Your legal journey, mapped with AI  
-- 🏛️ Expanding **Subsidy Finder** – a portal to help citizens explore government/private welfare schemes  
-- 💡 Practicing DSA on LeetCode, CodeChef & building a visual Portfolio
+Currently strengthening my skills in **Java, Spring Core, Spring Boot, REST APIs, Python, SQL, Machine Learning, and NLP**.
 
+---
 
-## 🛠️ Skills & Tools
+## What I'm Currently Working On
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+- Learning and building backend applications with **Java & Spring Boot**
+- Developing **REST APIs and CRUD applications**
+- Building **BookVerse** – a social platform for book lovers
+- Developing **CyberAware** – a scam detection tool for SMS, URLs, and UPI fraud attempts
+- Expanding **Subsidy Finder** – a platform for discovering welfare schemes
+- Working on **legal-tech and AI/ML projects**
+- Practicing **DSA and problem solving**
 
+---
 
+## Tech Stack
 
-## 📌 Featured Projects
+### Languages
 
-- 🔗 [**Wine Classifier**](https://github.com/Navya-1803): ML project comparing classification models on the Wine dataset using scikit-learn
-- 🔗 [**CyberAware**](https://github.com/Navya-1803/CyberAware): Flask-based web tool that detects scams in SMS, URLs, and UPI requests using pattern and keyword analysis
-- 🔗 [**Subsidy-Finder**](https://github.com/Navya-1803/Subsidy-Finder): Flask web app to explore and suggest government/private subsidies with search, filters, and database-ready structure
-- 🔗 [**Real Estate Price Predictor**](https://github.com/Navya-1803): Regression-based ML model predicting property prices using key real estate features
-- 🔗 [**Hospital Management System**](https://github.com/Navya-1803/Hospital_Management): Python + Tkinter desktop app with MySQL backend to manage hospital workflows 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Backend and Web
 
-## 📊 GitHub Stats
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+`REST APIs` `Spring Data JPA` `JDBC` `CRUD` `MySQL`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-1803&theme=transparent&show_icons=true&langs_count=6&layout=compact)](https://github.com/Navya-1803/github-readme-stats)
+### AI / ML / NLP
 
-![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya-1803&theme=transparent&show_icons=true&show=show_all_commits)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Navya-1803&theme=transparent)
+`Machine Learning` `NLP` `Feature Engineering` `TF-IDF` `Transformer Embeddings` `LegalBERT`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-1803&theme=transparent&no-frame=true)
+### Data and Big Data
 
-[![Navya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navya-1803&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=Navya-1803&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" width="160"/>
+`Apache Spark` `PySpark` `Dask` `pgvector`
 
+### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📬 Contact Me
+---
 
-- 📧 Email: navya3989@gmail.com  
-- 💼 LinkedIn: [Navya Raj](https://www.linkedin.com/in/navya-raj-473710302/)
+## Featured Projects
 
+### Judicial Digital Twin
 
-## 🎯 Fun Fact
+Legal AI and large-scale judicial analytics platform built using NLP, LegalBERT, PostgreSQL, and machine learning.
 
-I love transforming college course projects into real-world applications! 😄
+### CyberAware
+
+Flask-based scam detection tool for analyzing SMS, URLs, and UPI fraud patterns.
+
+[Repository](https://github.com/Navya-1803/CyberAware)
+
+### Subsidy Finder
+
+Web application for discovering and exploring government and private welfare schemes.
+
+[Repository](https://github.com/Navya-1803/Subsidy-Finder)
+
+### BookVerse
+
+Social platform concept for book lovers inspired by Goodreads and Fable.
+
+### Hospital Management System
+
+Python and Tkinter desktop application with MySQL backend.
+
+[Repository](https://github.com/Navya-1803/Hospital_Management)
+
+---
+
+## Currently Learning
+
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ └── JDBC
+
+Spring
+ ├── Spring Core
+ ├── Dependency Injection
+ ├── IoC Container
+ └── Spring Beans
+
+Spring Boot
+ ├── REST APIs
+ ├── CRUD Applications
+ ├── Spring Data JPA
+ ├── Controller Layer
+ ├── Service Layer
+ └── Repository Layer
